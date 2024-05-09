@@ -1,0 +1,1 @@
+define({availablePdf: ["benk_2022_the","duenser_2023_who", "jacovi_2021_formalizing", "kaplan_2020_how", "lee_2004_trust", "liao_2022_designing", "mylrea_2023_artificial", "henrique_2024_trust", "knowles_2021_the", "mayer_1995_an"]});
